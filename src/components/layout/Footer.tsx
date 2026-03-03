@@ -1,7 +1,7 @@
 import { useTranslations } from "next-intl";
 import { Link } from "@/i18n/navigation";
-import { Zap } from "lucide-react";
 import { Separator } from "@/components/ui/separator";
+import Image from "next/image";
 
 export function Footer() {
   const t = useTranslations("Footer");
@@ -14,9 +14,13 @@ export function Footer() {
           {/* Brand */}
           <div className="col-span-2 md:col-span-1">
             <div className="flex items-center gap-2">
-              <div className="flex h-8 w-8 items-center justify-center rounded-lg bg-[#0A4D50]">
-                <Zap className="h-5 w-5 text-[#20FA9B]" />
-              </div>
+              <Image
+                src="/images/logo/qompono-icon.png"
+                alt="Qompono"
+                width={32}
+                height={32}
+                className="h-8 w-8"
+              />
               <span className="text-lg font-bold">Qompono</span>
             </div>
             <p className="mt-3 text-sm text-muted-foreground">

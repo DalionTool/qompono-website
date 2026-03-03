@@ -10,7 +10,8 @@ import {
   SheetTrigger,
   SheetTitle,
 } from "@/components/ui/sheet";
-import { Menu, Zap } from "lucide-react";
+import { Menu } from "lucide-react";
+import Image from "next/image";
 import { useEffect, useState } from "react";
 
 export function Navbar() {
@@ -41,9 +42,13 @@ export function Navbar() {
       <div className="mx-auto flex h-16 max-w-7xl items-center justify-between px-4 sm:px-6 lg:px-8">
         {/* Logo */}
         <Link href="/" className="flex items-center gap-2">
-          <div className="flex h-8 w-8 items-center justify-center rounded-lg bg-[#0A4D50]">
-            <Zap className="h-5 w-5 text-[#20FA9B]" />
-          </div>
+          <Image
+            src="/images/logo/qompono-icon.png"
+            alt="Qompono"
+            width={32}
+            height={32}
+            className="h-8 w-8"
+          />
           <span className="text-xl font-bold text-foreground">Qompono</span>
         </Link>
 

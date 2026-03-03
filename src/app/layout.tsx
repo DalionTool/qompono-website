@@ -12,7 +12,8 @@ export const metadata: Metadata = {
   title: "Qompono",
   description: "Electrical design platform",
   icons: {
-    icon: "/favicon.ico",
+    icon: "/images/logo/qompono-icon.png",
+    apple: "/images/logo/qompono-icon.png",
   },
 };
 
