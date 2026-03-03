@@ -1,0 +1,258 @@
+{
+  "Metadata": {
+    "title": "Qompono — Elektrisch ontwerp platform",
+    "description": "Het complete platform voor elektrotechnisch ontwerp. Van grondplan tot eendraadschema in enkele klikken.",
+    "featuresTitle": "Functies — Qompono",
+    "featuresDescription": "Ontdek alle functies van Qompono: grondplan editor, eendraadschema, bordenontwerp en KNX configuratie.",
+    "pricingTitle": "Tarieven — Qompono",
+    "pricingDescription": "Transparante tarieven voor elk type bouwprofessional. Start gratis en upgrade wanneer u klaar bent.",
+    "contactTitle": "Contact — Qompono",
+    "contactDescription": "Neem contact op met het Qompono team. Vraag een demo aan of stel uw vragen."
+  },
+  "Navbar": {
+    "features": "Functies",
+    "pricing": "Tarieven",
+    "contact": "Contact",
+    "login": "Inloggen",
+    "tryFree": "Gratis proberen"
+  },
+  "Hero": {
+    "badge": "Elektrotechnisch ontwerp platform",
+    "title": "Elektrisch ontwerp,",
+    "titleAccent": "versneld.",
+    "subtitle": "Van grondplan tot eendraadschema in enkele klikken. Het complete platform voor elektriciens, architecten en studiebureaus.",
+    "ctaPrimary": "Start gratis proefperiode",
+    "ctaSecondary": "Bekijk demo"
+  },
+  "SocialProof": {
+    "title": "Ontwikkeld voor bouwprofessionals in België en Nederland"
+  },
+  "FeatureHighlights": {
+    "badge": "Functies",
+    "title": "Alles in één platform",
+    "subtitle": "Van ontwerp tot documentatie — alle tools die u nodig heeft.",
+    "floorplan": {
+      "title": "Grondplan Editor",
+      "description": "Teken en bewerk plattegronden met drag-and-drop elektrische symbolen. Importeer PDF, DXF of afbeeldingen."
+    },
+    "wiring": {
+      "title": "Eendraadschema",
+      "description": "Genereer automatisch eendraadschema's vanuit uw grondplan. AREI-conforme validatie inbegrepen."
+    },
+    "board": {
+      "title": "Bordenontwerper",
+      "description": "Ontwerp verdeelborden visueel met component bibliotheek en DIN-rail layout."
+    },
+    "knx": {
+      "title": "KNX Wizard",
+      "description": "Configureer slimme gebouwautomatisering met intuïtieve input/output mapping."
+    }
+  },
+  "HowItWorks": {
+    "badge": "Hoe werkt het",
+    "title": "In 3 stappen klaar",
+    "subtitle": "Qompono maakt elektrisch ontwerp eenvoudig en snel.",
+    "step1": {
+      "title": "Upload uw plan",
+      "description": "Importeer uw grondplan als PDF, DXF of afbeelding. Of teken direct vanuit nul."
+    },
+    "step2": {
+      "title": "Ontwerp met symbolen",
+      "description": "Sleep AREI-conforme symbolen naar de juiste positie. Automatische labeling en kabelberekening."
+    },
+    "step3": {
+      "title": "Genereer documenten",
+      "description": "Met één klik genereert u eendraadschema's, bordontwerpen en professionele PDF-exporten."
+    }
+  },
+  "FeatureSpotlight": {
+    "floorplan": {
+      "title": "Krachtige grondplan editor",
+      "description": "Onze editor combineert de kracht van professionele CAD-software met het gemak van drag-and-drop.",
+      "feature1": "100+ AREI-conforme elektrische symbolen",
+      "feature2": "PDF, DXF en afbeelding import",
+      "feature3": "Multi-verdieping ondersteuning met schacht-spanning",
+      "feature4": "Automatische kabelberekening en labeling",
+      "cta": "Meer ontdekken"
+    },
+    "wiring": {
+      "title": "Automatisch eendraadschema",
+      "description": "Genereer professionele eendraadschema's rechtstreeks vanuit uw grondplan. Geen dubbel werk meer.",
+      "feature1": "Automatische generatie vanuit grondplan",
+      "feature2": "AREI-validatie in realtime",
+      "feature3": "Circuit bewerking en kabelberekening",
+      "feature4": "Professionele PDF export",
+      "cta": "Meer ontdekken"
+    }
+  },
+  "Testimonials": {
+    "title": "Wat onze gebruikers zeggen",
+    "subtitle": "Bouwprofessionals vertrouwen op Qompono voor hun dagelijks werk."
+  },
+  "CTA": {
+    "title": "Klaar om te starten?",
+    "subtitle": "Probeer Qompono gratis en ontdek hoe eenvoudig elektrisch ontwerp kan zijn.",
+    "primary": "Start gratis proefperiode",
+    "secondary": "Neem contact op"
+  },
+  "Features": {
+    "badge": "Platform",
+    "title": "Alles wat u nodig heeft voor elektrisch ontwerp",
+    "subtitle": "Qompono is het geïntegreerde platform dat elk aspect van elektrotechnisch ontwerp afdekt.",
+    "floorplan": {
+      "title": "Grondplan Editor",
+      "subtitle": "Professionele plattegronden in enkele minuten",
+      "description": "Teken gebouwplannen en plaats elektrische symbolen met intuïtieve drag-and-drop. Importeer bestaande plannen of start vanuit nul.",
+      "feature1": "100+ AREI-conforme symbolen",
+      "feature2": "PDF, DXF en afbeelding import",
+      "feature3": "Multi-verdieping ondersteuning",
+      "feature4": "Schacht-spanning over verdiepingen",
+      "feature5": "Automatische kabelberekening en labeling",
+      "feature6": "Print en PDF export"
+    },
+    "wiring": {
+      "title": "Eendraadschema Editor",
+      "subtitle": "Van grondplan naar schema in één klik",
+      "description": "Genereer automatisch eendraadschema's vanuit uw grondplan. Bewerk circuits, valideer volgens AREI-normen en exporteer als PDF.",
+      "feature1": "Automatische generatie vanuit grondplan",
+      "feature2": "AREI-validatie in realtime",
+      "feature3": "Circuit bewerking met drag-and-drop",
+      "feature4": "Kabellengte berekening",
+      "feature5": "Multi-verdieping kabelrouting",
+      "feature6": "Professionele PDF export"
+    },
+    "board": {
+      "title": "Bordenontwerper",
+      "subtitle": "Visueel verdeelborden ontwerpen",
+      "description": "Ontwerp elektrische verdeelborden met een uitgebreide component bibliotheek. Automatische generatie vanuit uw schema's.",
+      "feature1": "Visueel bord ontwerp",
+      "feature2": "Uitgebreide component bibliotheek",
+      "feature3": "DIN-rail layout",
+      "feature4": "Auto-generatie vanuit eendraadschema",
+      "feature5": "Kastlabels genereren",
+      "feature6": "Export en print"
+    },
+    "knx": {
+      "title": "KNX Wizard",
+      "subtitle": "Slimme gebouwautomatisering configureren",
+      "description": "Configureer KNX-systemen met een intuïtieve wizard. Map inputs en outputs, selecteer producten en genereer configuratiebestanden.",
+      "feature1": "Apparaat configuratie",
+      "feature2": "Input/output mapping",
+      "feature3": "Product variant selectie",
+      "feature4": "Zennio integratie",
+      "feature5": "Configuratie export",
+      "feature6": "Projectoverzicht"
+    }
+  },
+  "Pricing": {
+    "badge": "Tarieven",
+    "title": "Transparante tarieven",
+    "subtitle": "Kies het plan dat bij u past. Altijd opzegbaar.",
+    "monthly": "Maandelijks",
+    "yearly": "Jaarlijks",
+    "yearlyDiscount": "Bespaar 20%",
+    "popular": "Meest gekozen",
+    "perMonth": "/maand",
+    "starter": {
+      "name": "Starter",
+      "price": "29",
+      "yearlyPrice": "23",
+      "description": "Perfect om te starten met elektrisch ontwerp.",
+      "feature1": "1 gebruiker",
+      "feature2": "5 actieve projecten",
+      "feature3": "Grondplan Editor",
+      "feature4": "Eendraadschema generatie",
+      "feature5": "PDF export",
+      "cta": "Start gratis proefperiode"
+    },
+    "professional": {
+      "name": "Professional",
+      "price": "59",
+      "yearlyPrice": "47",
+      "description": "Voor professionele elektriciens en installateurs.",
+      "feature1": "5 gebruikers",
+      "feature2": "Onbeperkte projecten",
+      "feature3": "Alle modules inbegrepen",
+      "feature4": "KNX Wizard",
+      "feature5": "Bordenontwerper",
+      "feature6": "Prioritaire ondersteuning",
+      "cta": "Start gratis proefperiode"
+    },
+    "enterprise": {
+      "name": "Enterprise",
+      "price": "Op maat",
+      "description": "Voor grote organisaties en studiebureaus.",
+      "feature1": "Onbeperkte gebruikers",
+      "feature2": "Onbeperkte projecten",
+      "feature3": "Alle modules inbegrepen",
+      "feature4": "Dedicated ondersteuning",
+      "feature5": "SLA garantie",
+      "feature6": "Custom integraties",
+      "cta": "Neem contact op"
+    }
+  },
+  "FAQ": {
+    "title": "Veelgestelde vragen",
+    "q1": "Is er een gratis proefperiode?",
+    "a1": "Ja, u kunt Qompono 14 dagen gratis uitproberen zonder creditcard. Alle functies zijn beschikbaar tijdens de proefperiode.",
+    "q2": "Kan ik op elk moment opzeggen?",
+    "a2": "Absoluut. Er is geen minimale contractduur. U kunt op elk moment uw abonnement opzeggen.",
+    "q3": "Welke betaalmethoden worden aanvaard?",
+    "a3": "We accepteren creditcard, Bancontact en overschrijving voor jaarabonnementen.",
+    "q4": "Is mijn data veilig?",
+    "a4": "Ja, al uw data wordt versleuteld opgeslagen in beveiligde Europese datacenters. We voldoen aan de GDPR-wetgeving.",
+    "q5": "Kan ik upgraden van plan?",
+    "a5": "Ja, u kunt op elk moment upgraden. Het verschil wordt pro-rata berekend.",
+    "q6": "Bieden jullie training aan?",
+    "a6": "Ja, bij het Professional en Enterprise plan bieden we persoonlijke onboarding en training aan."
+  },
+  "Contact": {
+    "badge": "Contact",
+    "title": "Neem contact op",
+    "subtitle": "Heeft u vragen of wilt u een demo? Wij helpen u graag verder.",
+    "form": {
+      "name": "Naam",
+      "namePlaceholder": "Uw volledige naam",
+      "email": "E-mailadres",
+      "emailPlaceholder": "uw@email.com",
+      "company": "Bedrijf",
+      "companyPlaceholder": "Uw bedrijfsnaam (optioneel)",
+      "phone": "Telefoonnummer",
+      "phonePlaceholder": "+32 ...",
+      "subject": "Onderwerp",
+      "subjectPlaceholder": "Selecteer een onderwerp",
+      "subjects": {
+        "demo": "Demo aanvragen",
+        "pricing": "Prijsinformatie",
+        "technical": "Technische vraag",
+        "other": "Overig"
+      },
+      "message": "Bericht",
+      "messagePlaceholder": "Uw bericht...",
+      "submit": "Verstuur bericht",
+      "sending": "Verzenden...",
+      "success": "Bedankt! Uw bericht is verzonden. We nemen zo snel mogelijk contact op.",
+      "error": "Er ging iets mis. Probeer het opnieuw of mail ons direct."
+    },
+    "info": {
+      "title": "Contactgegevens",
+      "email": "info@qompono.be",
+      "demoTitle": "Demo aanvragen",
+      "demoDescription": "Wilt u Qompono in actie zien? Plan een vrijblijvende demo in."
+    }
+  },
+  "Footer": {
+    "description": "Het complete platform voor elektrotechnisch ontwerp.",
+    "product": "Product",
+    "company": "Bedrijf",
+    "legal": "Juridisch",
+    "features": "Functies",
+    "pricing": "Tarieven",
+    "about": "Over ons",
+    "contact": "Contact",
+    "privacy": "Privacybeleid",
+    "terms": "Algemene voorwaarden",
+    "copyright": "© {year} Qompono. Alle rechten voorbehouden.",
+    "madeIn": "Gemaakt in België"
+  }
+}

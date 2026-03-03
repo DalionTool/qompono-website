@@ -1,0 +1,258 @@
+{
+  "Metadata": {
+    "title": "Qompono — Plateforme de conception électrique",
+    "description": "La plateforme complète pour la conception électrotechnique. Du plan d'étage au schéma unifilaire en quelques clics.",
+    "featuresTitle": "Fonctionnalités — Qompono",
+    "featuresDescription": "Découvrez toutes les fonctionnalités de Qompono : éditeur de plans, schéma unifilaire, conception de tableaux et configuration KNX.",
+    "pricingTitle": "Tarifs — Qompono",
+    "pricingDescription": "Des tarifs transparents pour chaque type de professionnel du bâtiment. Commencez gratuitement.",
+    "contactTitle": "Contact — Qompono",
+    "contactDescription": "Contactez l'équipe Qompono. Demandez une démo ou posez vos questions."
+  },
+  "Navbar": {
+    "features": "Fonctionnalités",
+    "pricing": "Tarifs",
+    "contact": "Contact",
+    "login": "Se connecter",
+    "tryFree": "Essai gratuit"
+  },
+  "Hero": {
+    "badge": "Plateforme de conception électrique",
+    "title": "Conception électrique,",
+    "titleAccent": "accélérée.",
+    "subtitle": "Du plan d'étage au schéma unifilaire en quelques clics. La plateforme complète pour les électriciens, architectes et bureaux d'études.",
+    "ctaPrimary": "Commencer l'essai gratuit",
+    "ctaSecondary": "Voir la démo"
+  },
+  "SocialProof": {
+    "title": "Développé pour les professionnels du bâtiment en Belgique et aux Pays-Bas"
+  },
+  "FeatureHighlights": {
+    "badge": "Fonctionnalités",
+    "title": "Tout en une seule plateforme",
+    "subtitle": "De la conception à la documentation — tous les outils dont vous avez besoin.",
+    "floorplan": {
+      "title": "Éditeur de plans",
+      "description": "Dessinez et modifiez des plans avec des symboles électriques en glisser-déposer. Importez PDF, DXF ou images."
+    },
+    "wiring": {
+      "title": "Schéma unifilaire",
+      "description": "Générez automatiquement des schémas unifilaires à partir de votre plan. Validation RGIE incluse."
+    },
+    "board": {
+      "title": "Concepteur de tableaux",
+      "description": "Concevez des tableaux de distribution visuellement avec une bibliothèque de composants et un layout rail DIN."
+    },
+    "knx": {
+      "title": "Assistant KNX",
+      "description": "Configurez l'automatisation intelligente des bâtiments avec un mapping intuitif entrées/sorties."
+    }
+  },
+  "HowItWorks": {
+    "badge": "Comment ça marche",
+    "title": "Prêt en 3 étapes",
+    "subtitle": "Qompono rend la conception électrique simple et rapide.",
+    "step1": {
+      "title": "Téléchargez votre plan",
+      "description": "Importez votre plan d'étage en PDF, DXF ou image. Ou dessinez directement à partir de zéro."
+    },
+    "step2": {
+      "title": "Concevez avec des symboles",
+      "description": "Glissez des symboles conformes RGIE à la bonne position. Étiquetage automatique et calcul de câbles."
+    },
+    "step3": {
+      "title": "Générez les documents",
+      "description": "En un clic, générez des schémas unifilaires, des conceptions de tableaux et des exports PDF professionnels."
+    }
+  },
+  "FeatureSpotlight": {
+    "floorplan": {
+      "title": "Éditeur de plans puissant",
+      "description": "Notre éditeur combine la puissance d'un logiciel CAO professionnel avec la facilité du glisser-déposer.",
+      "feature1": "100+ symboles électriques conformes RGIE",
+      "feature2": "Import PDF, DXF et images",
+      "feature3": "Support multi-étages avec gaines traversantes",
+      "feature4": "Calcul et étiquetage automatique des câbles",
+      "cta": "En savoir plus"
+    },
+    "wiring": {
+      "title": "Schéma unifilaire automatique",
+      "description": "Générez des schémas unifilaires professionnels directement à partir de votre plan. Fini le double travail.",
+      "feature1": "Génération automatique à partir du plan",
+      "feature2": "Validation RGIE en temps réel",
+      "feature3": "Édition de circuits et calcul de câbles",
+      "feature4": "Export PDF professionnel",
+      "cta": "En savoir plus"
+    }
+  },
+  "Testimonials": {
+    "title": "Ce que disent nos utilisateurs",
+    "subtitle": "Les professionnels du bâtiment font confiance à Qompono pour leur travail quotidien."
+  },
+  "CTA": {
+    "title": "Prêt à commencer ?",
+    "subtitle": "Essayez Qompono gratuitement et découvrez la simplicité de la conception électrique.",
+    "primary": "Commencer l'essai gratuit",
+    "secondary": "Nous contacter"
+  },
+  "Features": {
+    "badge": "Plateforme",
+    "title": "Tout ce dont vous avez besoin pour la conception électrique",
+    "subtitle": "Qompono est la plateforme intégrée qui couvre chaque aspect de la conception électrotechnique.",
+    "floorplan": {
+      "title": "Éditeur de plans",
+      "subtitle": "Des plans professionnels en quelques minutes",
+      "description": "Dessinez des plans de bâtiments et placez des symboles électriques avec un glisser-déposer intuitif. Importez des plans existants ou commencez de zéro.",
+      "feature1": "100+ symboles conformes RGIE",
+      "feature2": "Import PDF, DXF et images",
+      "feature3": "Support multi-étages",
+      "feature4": "Gaines traversantes entre étages",
+      "feature5": "Calcul et étiquetage automatique des câbles",
+      "feature6": "Impression et export PDF"
+    },
+    "wiring": {
+      "title": "Éditeur de schéma unifilaire",
+      "subtitle": "Du plan au schéma en un clic",
+      "description": "Générez automatiquement des schémas unifilaires à partir de votre plan. Modifiez les circuits, validez selon les normes RGIE et exportez en PDF.",
+      "feature1": "Génération automatique à partir du plan",
+      "feature2": "Validation RGIE en temps réel",
+      "feature3": "Édition de circuits en glisser-déposer",
+      "feature4": "Calcul de longueur de câbles",
+      "feature5": "Routage de câbles multi-étages",
+      "feature6": "Export PDF professionnel"
+    },
+    "board": {
+      "title": "Concepteur de tableaux",
+      "subtitle": "Concevoir visuellement des tableaux de distribution",
+      "description": "Concevez des tableaux de distribution électrique avec une bibliothèque de composants étendue. Génération automatique à partir de vos schémas.",
+      "feature1": "Conception visuelle de tableaux",
+      "feature2": "Bibliothèque de composants étendue",
+      "feature3": "Layout rail DIN",
+      "feature4": "Auto-génération depuis le schéma unifilaire",
+      "feature5": "Génération d'étiquettes",
+      "feature6": "Export et impression"
+    },
+    "knx": {
+      "title": "Assistant KNX",
+      "subtitle": "Configurer l'automatisation intelligente des bâtiments",
+      "description": "Configurez des systèmes KNX avec un assistant intuitif. Mappez les entrées et sorties, sélectionnez les produits et générez les fichiers de configuration.",
+      "feature1": "Configuration d'appareils",
+      "feature2": "Mapping entrées/sorties",
+      "feature3": "Sélection de variantes de produits",
+      "feature4": "Intégration Zennio",
+      "feature5": "Export de configuration",
+      "feature6": "Vue d'ensemble du projet"
+    }
+  },
+  "Pricing": {
+    "badge": "Tarifs",
+    "title": "Des tarifs transparents",
+    "subtitle": "Choisissez le plan qui vous convient. Résiliable à tout moment.",
+    "monthly": "Mensuel",
+    "yearly": "Annuel",
+    "yearlyDiscount": "Économisez 20%",
+    "popular": "Le plus populaire",
+    "perMonth": "/mois",
+    "starter": {
+      "name": "Starter",
+      "price": "29",
+      "yearlyPrice": "23",
+      "description": "Parfait pour débuter avec la conception électrique.",
+      "feature1": "1 utilisateur",
+      "feature2": "5 projets actifs",
+      "feature3": "Éditeur de plans",
+      "feature4": "Génération de schéma unifilaire",
+      "feature5": "Export PDF",
+      "cta": "Commencer l'essai gratuit"
+    },
+    "professional": {
+      "name": "Professional",
+      "price": "59",
+      "yearlyPrice": "47",
+      "description": "Pour les électriciens et installateurs professionnels.",
+      "feature1": "5 utilisateurs",
+      "feature2": "Projets illimités",
+      "feature3": "Tous les modules inclus",
+      "feature4": "Assistant KNX",
+      "feature5": "Concepteur de tableaux",
+      "feature6": "Support prioritaire",
+      "cta": "Commencer l'essai gratuit"
+    },
+    "enterprise": {
+      "name": "Enterprise",
+      "price": "Sur mesure",
+      "description": "Pour les grandes organisations et bureaux d'études.",
+      "feature1": "Utilisateurs illimités",
+      "feature2": "Projets illimités",
+      "feature3": "Tous les modules inclus",
+      "feature4": "Support dédié",
+      "feature5": "Garantie SLA",
+      "feature6": "Intégrations personnalisées",
+      "cta": "Nous contacter"
+    }
+  },
+  "FAQ": {
+    "title": "Questions fréquentes",
+    "q1": "Y a-t-il un essai gratuit ?",
+    "a1": "Oui, vous pouvez essayer Qompono gratuitement pendant 14 jours sans carte de crédit. Toutes les fonctionnalités sont disponibles pendant la période d'essai.",
+    "q2": "Puis-je résilier à tout moment ?",
+    "a2": "Absolument. Il n'y a pas de durée minimale de contrat. Vous pouvez résilier votre abonnement à tout moment.",
+    "q3": "Quels modes de paiement sont acceptés ?",
+    "a3": "Nous acceptons les cartes de crédit, Bancontact et les virements bancaires pour les abonnements annuels.",
+    "q4": "Mes données sont-elles sécurisées ?",
+    "a4": "Oui, toutes vos données sont stockées de manière chiffrée dans des centres de données européens sécurisés. Nous sommes conformes au RGPD.",
+    "q5": "Puis-je changer de plan ?",
+    "a5": "Oui, vous pouvez upgrader à tout moment. La différence est calculée au prorata.",
+    "q6": "Proposez-vous des formations ?",
+    "a6": "Oui, avec les plans Professional et Enterprise, nous proposons un onboarding et une formation personnalisés."
+  },
+  "Contact": {
+    "badge": "Contact",
+    "title": "Contactez-nous",
+    "subtitle": "Vous avez des questions ou souhaitez une démo ? Nous sommes là pour vous aider.",
+    "form": {
+      "name": "Nom",
+      "namePlaceholder": "Votre nom complet",
+      "email": "Adresse e-mail",
+      "emailPlaceholder": "votre@email.com",
+      "company": "Entreprise",
+      "companyPlaceholder": "Nom de votre entreprise (optionnel)",
+      "phone": "Téléphone",
+      "phonePlaceholder": "+32 ...",
+      "subject": "Sujet",
+      "subjectPlaceholder": "Sélectionnez un sujet",
+      "subjects": {
+        "demo": "Demander une démo",
+        "pricing": "Information tarifaire",
+        "technical": "Question technique",
+        "other": "Autre"
+      },
+      "message": "Message",
+      "messagePlaceholder": "Votre message...",
+      "submit": "Envoyer le message",
+      "sending": "Envoi en cours...",
+      "success": "Merci ! Votre message a été envoyé. Nous vous recontacterons rapidement.",
+      "error": "Une erreur s'est produite. Réessayez ou envoyez-nous un e-mail directement."
+    },
+    "info": {
+      "title": "Coordonnées",
+      "email": "info@qompono.be",
+      "demoTitle": "Demander une démo",
+      "demoDescription": "Vous souhaitez voir Qompono en action ? Planifiez une démo sans engagement."
+    }
+  },
+  "Footer": {
+    "description": "La plateforme complète pour la conception électrotechnique.",
+    "product": "Produit",
+    "company": "Entreprise",
+    "legal": "Juridique",
+    "features": "Fonctionnalités",
+    "pricing": "Tarifs",
+    "about": "À propos",
+    "contact": "Contact",
+    "privacy": "Politique de confidentialité",
+    "terms": "Conditions générales",
+    "copyright": "© {year} Qompono. Tous droits réservés.",
+    "madeIn": "Fait en Belgique"
+  }
+}

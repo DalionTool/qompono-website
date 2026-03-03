@@ -1,0 +1,258 @@
+{
+  "Metadata": {
+    "title": "Qompono — Electrical Design Platform",
+    "description": "The complete platform for electrical engineering design. From floor plan to single-line diagram in just a few clicks.",
+    "featuresTitle": "Features — Qompono",
+    "featuresDescription": "Discover all Qompono features: floor plan editor, single-line diagrams, board design and KNX configuration.",
+    "pricingTitle": "Pricing — Qompono",
+    "pricingDescription": "Transparent pricing for every type of construction professional. Start free and upgrade when ready.",
+    "contactTitle": "Contact — Qompono",
+    "contactDescription": "Get in touch with the Qompono team. Request a demo or ask your questions."
+  },
+  "Navbar": {
+    "features": "Features",
+    "pricing": "Pricing",
+    "contact": "Contact",
+    "login": "Log in",
+    "tryFree": "Try for free"
+  },
+  "Hero": {
+    "badge": "Electrical design platform",
+    "title": "Electrical design,",
+    "titleAccent": "accelerated.",
+    "subtitle": "From floor plan to single-line diagram in just a few clicks. The complete platform for electricians, architects and engineering firms.",
+    "ctaPrimary": "Start free trial",
+    "ctaSecondary": "Watch demo"
+  },
+  "SocialProof": {
+    "title": "Built for construction professionals in Belgium and the Netherlands"
+  },
+  "FeatureHighlights": {
+    "badge": "Features",
+    "title": "Everything in one platform",
+    "subtitle": "From design to documentation — all the tools you need.",
+    "floorplan": {
+      "title": "Floor Plan Editor",
+      "description": "Draw and edit floor plans with drag-and-drop electrical symbols. Import PDF, DXF or images."
+    },
+    "wiring": {
+      "title": "Single-Line Diagram",
+      "description": "Automatically generate single-line diagrams from your floor plan. AREI-compliant validation included."
+    },
+    "board": {
+      "title": "Board Designer",
+      "description": "Design distribution boards visually with a component library and DIN rail layout."
+    },
+    "knx": {
+      "title": "KNX Wizard",
+      "description": "Configure smart building automation with intuitive input/output mapping."
+    }
+  },
+  "HowItWorks": {
+    "badge": "How it works",
+    "title": "Ready in 3 steps",
+    "subtitle": "Qompono makes electrical design simple and fast.",
+    "step1": {
+      "title": "Upload your plan",
+      "description": "Import your floor plan as PDF, DXF or image. Or draw directly from scratch."
+    },
+    "step2": {
+      "title": "Design with symbols",
+      "description": "Drag AREI-compliant symbols to the right position. Automatic labeling and cable calculation."
+    },
+    "step3": {
+      "title": "Generate documents",
+      "description": "With one click, generate single-line diagrams, board designs and professional PDF exports."
+    }
+  },
+  "FeatureSpotlight": {
+    "floorplan": {
+      "title": "Powerful floor plan editor",
+      "description": "Our editor combines the power of professional CAD software with the ease of drag-and-drop.",
+      "feature1": "100+ AREI-compliant electrical symbols",
+      "feature2": "PDF, DXF and image import",
+      "feature3": "Multi-floor support with shaft spanning",
+      "feature4": "Automatic cable calculation and labeling",
+      "cta": "Learn more"
+    },
+    "wiring": {
+      "title": "Automatic single-line diagram",
+      "description": "Generate professional single-line diagrams directly from your floor plan. No more double work.",
+      "feature1": "Automatic generation from floor plan",
+      "feature2": "Real-time AREI validation",
+      "feature3": "Circuit editing and cable calculation",
+      "feature4": "Professional PDF export",
+      "cta": "Learn more"
+    }
+  },
+  "Testimonials": {
+    "title": "What our users say",
+    "subtitle": "Construction professionals trust Qompono for their daily work."
+  },
+  "CTA": {
+    "title": "Ready to get started?",
+    "subtitle": "Try Qompono for free and discover how simple electrical design can be.",
+    "primary": "Start free trial",
+    "secondary": "Get in touch"
+  },
+  "Features": {
+    "badge": "Platform",
+    "title": "Everything you need for electrical design",
+    "subtitle": "Qompono is the integrated platform that covers every aspect of electrical engineering design.",
+    "floorplan": {
+      "title": "Floor Plan Editor",
+      "subtitle": "Professional floor plans in minutes",
+      "description": "Draw building plans and place electrical symbols with intuitive drag-and-drop. Import existing plans or start from scratch.",
+      "feature1": "100+ AREI-compliant symbols",
+      "feature2": "PDF, DXF and image import",
+      "feature3": "Multi-floor support",
+      "feature4": "Shaft spanning across floors",
+      "feature5": "Automatic cable calculation and labeling",
+      "feature6": "Print and PDF export"
+    },
+    "wiring": {
+      "title": "Single-Line Diagram Editor",
+      "subtitle": "From floor plan to diagram in one click",
+      "description": "Automatically generate single-line diagrams from your floor plan. Edit circuits, validate against AREI standards and export as PDF.",
+      "feature1": "Automatic generation from floor plan",
+      "feature2": "Real-time AREI validation",
+      "feature3": "Drag-and-drop circuit editing",
+      "feature4": "Cable length calculation",
+      "feature5": "Multi-floor cable routing",
+      "feature6": "Professional PDF export"
+    },
+    "board": {
+      "title": "Board Designer",
+      "subtitle": "Visually design distribution boards",
+      "description": "Design electrical distribution boards with an extensive component library. Automatic generation from your diagrams.",
+      "feature1": "Visual board design",
+      "feature2": "Extensive component library",
+      "feature3": "DIN rail layout",
+      "feature4": "Auto-generation from single-line diagram",
+      "feature5": "Label generation",
+      "feature6": "Export and print"
+    },
+    "knx": {
+      "title": "KNX Wizard",
+      "subtitle": "Configure smart building automation",
+      "description": "Configure KNX systems with an intuitive wizard. Map inputs and outputs, select products and generate configuration files.",
+      "feature1": "Device configuration",
+      "feature2": "Input/output mapping",
+      "feature3": "Product variant selection",
+      "feature4": "Zennio integration",
+      "feature5": "Configuration export",
+      "feature6": "Project overview"
+    }
+  },
+  "Pricing": {
+    "badge": "Pricing",
+    "title": "Transparent pricing",
+    "subtitle": "Choose the plan that fits you. Cancel anytime.",
+    "monthly": "Monthly",
+    "yearly": "Yearly",
+    "yearlyDiscount": "Save 20%",
+    "popular": "Most popular",
+    "perMonth": "/month",
+    "starter": {
+      "name": "Starter",
+      "price": "29",
+      "yearlyPrice": "23",
+      "description": "Perfect to get started with electrical design.",
+      "feature1": "1 user",
+      "feature2": "5 active projects",
+      "feature3": "Floor Plan Editor",
+      "feature4": "Single-line diagram generation",
+      "feature5": "PDF export",
+      "cta": "Start free trial"
+    },
+    "professional": {
+      "name": "Professional",
+      "price": "59",
+      "yearlyPrice": "47",
+      "description": "For professional electricians and installers.",
+      "feature1": "5 users",
+      "feature2": "Unlimited projects",
+      "feature3": "All modules included",
+      "feature4": "KNX Wizard",
+      "feature5": "Board Designer",
+      "feature6": "Priority support",
+      "cta": "Start free trial"
+    },
+    "enterprise": {
+      "name": "Enterprise",
+      "price": "Custom",
+      "description": "For large organizations and engineering firms.",
+      "feature1": "Unlimited users",
+      "feature2": "Unlimited projects",
+      "feature3": "All modules included",
+      "feature4": "Dedicated support",
+      "feature5": "SLA guarantee",
+      "feature6": "Custom integrations",
+      "cta": "Get in touch"
+    }
+  },
+  "FAQ": {
+    "title": "Frequently asked questions",
+    "q1": "Is there a free trial?",
+    "a1": "Yes, you can try Qompono free for 14 days without a credit card. All features are available during the trial period.",
+    "q2": "Can I cancel at any time?",
+    "a2": "Absolutely. There is no minimum contract duration. You can cancel your subscription at any time.",
+    "q3": "Which payment methods are accepted?",
+    "a3": "We accept credit card, Bancontact and bank transfer for annual subscriptions.",
+    "q4": "Is my data secure?",
+    "a4": "Yes, all your data is stored encrypted in secure European data centers. We comply with GDPR regulations.",
+    "q5": "Can I upgrade my plan?",
+    "a5": "Yes, you can upgrade at any time. The difference is calculated pro-rata.",
+    "q6": "Do you offer training?",
+    "a6": "Yes, with Professional and Enterprise plans, we offer personalized onboarding and training."
+  },
+  "Contact": {
+    "badge": "Contact",
+    "title": "Get in touch",
+    "subtitle": "Have questions or want a demo? We're happy to help.",
+    "form": {
+      "name": "Name",
+      "namePlaceholder": "Your full name",
+      "email": "Email address",
+      "emailPlaceholder": "your@email.com",
+      "company": "Company",
+      "companyPlaceholder": "Your company name (optional)",
+      "phone": "Phone number",
+      "phonePlaceholder": "+32 ...",
+      "subject": "Subject",
+      "subjectPlaceholder": "Select a subject",
+      "subjects": {
+        "demo": "Request a demo",
+        "pricing": "Pricing information",
+        "technical": "Technical question",
+        "other": "Other"
+      },
+      "message": "Message",
+      "messagePlaceholder": "Your message...",
+      "submit": "Send message",
+      "sending": "Sending...",
+      "success": "Thank you! Your message has been sent. We'll get back to you as soon as possible.",
+      "error": "Something went wrong. Please try again or email us directly."
+    },
+    "info": {
+      "title": "Contact information",
+      "email": "info@qompono.be",
+      "demoTitle": "Request a demo",
+      "demoDescription": "Want to see Qompono in action? Schedule a no-obligation demo."
+    }
+  },
+  "Footer": {
+    "description": "The complete platform for electrical engineering design.",
+    "product": "Product",
+    "company": "Company",
+    "legal": "Legal",
+    "features": "Features",
+    "pricing": "Pricing",
+    "about": "About",
+    "contact": "Contact",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "copyright": "© {year} Qompono. All rights reserved.",
+    "madeIn": "Made in Belgium"
+  }
+}
