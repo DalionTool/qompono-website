@@ -4,7 +4,7 @@ import { routing } from "@/i18n/routing";
 
 const intlMiddleware = createMiddleware(routing);
 
-export default function middleware(request: NextRequest) {
+export function proxy(request: NextRequest) {
   const { pathname } = request.nextUrl;
 
   // Allow coming-soon pages through without cookie check
@@ -18,7 +18,7 @@ export default function middleware(request: NextRequest) {
     return NextResponse.redirect(new URL("/coming-soon", request.url));
   }
 
-  // Cookie present — proceed with next-intl routing
+  // Cookie present, proceed with next-intl routing
   return intlMiddleware(request);
 }
 
