@@ -45,7 +45,7 @@ export default function ComingSoonPage() {
 
   return (
     <div
-      className={`min-h-screen flex items-center justify-center relative overflow-hidden transition-opacity duration-700 ${
+      className={`fixed inset-0 z-50 flex items-center justify-center overflow-hidden transition-opacity duration-700 ${
         mounted ? "opacity-100" : "opacity-0"
       }`}
       style={{
@@ -89,10 +89,7 @@ export default function ComingSoonPage() {
             <h1 className="text-3xl font-bold text-white tracking-tight">
               Qompono
             </h1>
-            <p
-              className="text-sm mt-2"
-              style={{ color: "#20FA9B" }}
-            >
+            <p className="text-sm mt-2" style={{ color: "#20FA9B" }}>
               Coming Soon
             </p>
           </div>
@@ -124,21 +121,18 @@ export default function ComingSoonPage() {
         </div>
 
         {/* Footer */}
-        <p className="text-center text-xs mt-6" style={{ color: "rgba(255, 255, 255, 0.3)" }}>
+        <p
+          className="text-center text-xs mt-6"
+          style={{ color: "rgba(255, 255, 255, 0.3)" }}
+        >
           powered by Dalion
         </p>
       </div>
 
       <style>{`
         @keyframes fade-in {
-          from {
-            opacity: 0;
-            transform: translateY(8px);
-          }
-          to {
-            opacity: 1;
-            transform: translateY(0);
-          }
+          from { opacity: 0; transform: translateY(8px); }
+          to { opacity: 1; transform: translateY(0); }
         }
       `}</style>
     </div>

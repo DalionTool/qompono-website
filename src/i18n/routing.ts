@@ -20,6 +20,7 @@ export const routing = defineRouting({
       fr: "/contact",
       en: "/contact",
     },
+    "/coming-soon": "/coming-soon",
   },
 });
 
