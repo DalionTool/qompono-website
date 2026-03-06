@@ -12,10 +12,12 @@ export default function middleware(request: NextRequest) {
     return NextResponse.next();
   }
 
-  // If no access cookie, redirect to coming-soon
+  // If no access cookie, rewrite to coming-soon (keeps URL, serves gate)
   const hasAccess = request.cookies.get("qompono-access")?.value === "true";
   if (!hasAccess) {
-    return NextResponse.redirect(new URL("/coming-soon", request.url));
+    const url = request.nextUrl.clone();
+    url.pathname = "/coming-soon";
+    return NextResponse.rewrite(url);
   }
 
   // Cookie present — proceed with next-intl routing
