@@ -5,7 +5,6 @@ import Image from "next/image";
 
 export function Footer() {
   const t = useTranslations("Footer");
-  const year = new Date().getFullYear();
 
   return (
     <footer className="border-t border-border bg-muted/30">
@@ -88,7 +87,7 @@ export function Footer() {
 
         <div className="flex flex-col items-center justify-between gap-4 sm:flex-row">
           <p className="text-xs text-muted-foreground">
-            {t("copyright", { year })}
+            {t("copyright")}
           </p>
           <p className="text-xs text-muted-foreground">{t("madeIn")} 🇧🇪</p>
         </div>
